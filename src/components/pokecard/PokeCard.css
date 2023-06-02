@@ -1,0 +1,28 @@
+.poke-card {
+    border: 1px solid grey;
+    border-radius: 12px;
+    width: 250px;
+    height: 180px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    display: flex;
+    margin: 20px;
+    padding: 8px;
+    background: linear-gradient(to right, #24243e, #141E30, #0f0c29); }
+
+
+.poke-card div {
+    z-index: 9;
+}
+
+.poke-card h1 {
+    font-size: 20px;
+    text-transform: Uppercase;
+    color: white;
+    
+}
+
+.poke-card img {
+    margin-left: -10px;
+}
+

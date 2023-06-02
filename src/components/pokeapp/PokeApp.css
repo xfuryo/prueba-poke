@@ -1,0 +1,35 @@
+.card-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pokemon-container{
+    background-color: rgb(231, 221, 104);
+}
+
+.btn-mostrar{
+    border: none;
+    padding: 11px 25px;
+    background: linear-gradient(to right, #24243e, #141E30, #0f0c29);
+    color: white;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-right: 35px;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.sltn-tipo {
+    border: none;
+    padding: 11px 25px;
+    background: linear-gradient(to right, #24243e, #141E30, #0f0c29);
+    color: white;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-right: 35px;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
